@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub
 
-Je m'appelle **Yvann Martorana**, actuellement en reconversion professionnelle dans le développement web et mobile.  
+Je m'appelle **Yvann**, actuellement en reconversion professionnelle dans le développement web et mobile.  
 Ce profil regroupe les projets réalisés dans le cadre de ma formation et de mon apprentissage personnel.
 
 ---
