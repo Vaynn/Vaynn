@@ -7,7 +7,7 @@ Ce profil regroupe les projets réalisés dans le cadre de ma formation et de mo
 
 ## 🎓 Parcours
 
-Ancien préparateur en pharmacie pendant dix ans, j’ai choisi de me reconvertir dans le développement informatique.  
+Ancien préparateur en pharmacie pendant dix ans, j’ai choisi de me reconvertir dans le développement informatique, domaine qui m'a toujours passionné.  
 J’ai suivi une formation à **l’école 42 Lyon**, où j’ai appris à coder en autonomie à travers des projets concrets.  
 Cette expérience m’a permis de développer des bases solides en programmation, en algorithmie et en travail collaboratif.
 
